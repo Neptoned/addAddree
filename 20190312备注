@@ -1,0 +1,5 @@
+导入小程序后需要修改
+一.app.json
+1."backgroundTextStyle": "light",
+2.tabBar-list-pagePath：全部改为pages/cleanOrder/cleanOrder
+3.iconPath和selectedIconPath改为images/3.png或者images/6.png
